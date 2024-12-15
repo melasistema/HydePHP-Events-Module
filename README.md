@@ -113,7 +113,7 @@ This will generate an event Markdown file with the necessary front matter, ready
 Publish a pre-designed homepage for your events:
 
 ```bash
-php artisan publish:event-homepage
+php hyde publish:homepage-events
 ```
 
 Customize the homepage as needed by editing the generated files in your project.
@@ -128,7 +128,7 @@ The configuration file `config/hyde-events.php` allows you to customize various 
 
 ## Development and Contributions
 
-Contributions are welcome! If you encounter any issues or have ideas for new features, feel free to submit an issue or open a pull request on the [GitHub repository](https://github.com/melasistema/hyde-events-module).
+Contributions are welcome! If you encounter any issues or have ideas for new features, feel free to submit an issue or open a pull request on the [GitHub repository](https://github.com/melasistema/HydePHP-Events-Module).
 
 ### Local Development
 
