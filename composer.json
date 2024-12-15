@@ -4,7 +4,7 @@
     "type": "library",
     "license": "MIT",
     "version": "1.0.0",
-    "keywords": ["hydephp", "events", "module"],
+    "keywords": ["hydephp", "hyde", "events", "static-site-generator", "laravel", "tailwindcss", "php"],
     "autoload": {
         "psr-4": {
             "Melasistema\\HydeEventsModule\\": "src/"

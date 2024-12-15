@@ -2,6 +2,8 @@
 
 A powerful and customizable events module for HydePHP
 
+![HydePHP Events Module](screenshots/hyde-events-module-header.png)
+
 HydePHP Events Module extends the capabilities of HydePHP, an elegant static site generator, by adding robust event management functionality. This package enables developers to easily create, paginate, and manage event pages within their HydePHP projects.
 
 ---
