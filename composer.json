@@ -1,0 +1,30 @@
+{
+    "name": "melasistema/hyde-events-module",
+    "description": "A composer package to add events functionality to HydePHP by Caen De Silva",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "keywords": ["hydephp", "events", "module"],
+    "autoload": {
+        "psr-4": {
+            "Melasistema\\HydeEventsModule\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luca Visciola",
+            "email": "info@melasistema.com"
+        }
+    ],
+    "require": {
+        "hyde/framework": "^1.7"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Melasistema\\HydeEventsModule\\HydeEventsServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}
