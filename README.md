@@ -89,8 +89,8 @@ This will copy the views from the package into your project\
 
 Once the views are published, you can freely edit them in the <code>resources/views/vendor/hyde-events</code> directory. For example, if you want to customize the layout or design of the event pages, you can modify the relevant Blade files here.
 
-<code>resources/views/vendor/hyde-events/events.blade.php</code>: Customize the event listing page.
-<code>resources/views/vendor/hyde-events/event-details.blade.php</code>: Modify the individual event detail page.
+<code>resources/views/vendor/hyde-events/event-post-feed.blade.php</code>: Customize the event listing page.
+<code>resources/views/vendor/hyde-events/components/event/article.blade.php</code>: Modify the individual event detail page.
 
 By publishing the views, you gain full control over how events are presented in your application, making it easy to adapt the module to your specific design needs.
 
@@ -151,7 +151,7 @@ composer install
 
 ## License
 
-This package is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+This package is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for more details.
 
 ---
 
