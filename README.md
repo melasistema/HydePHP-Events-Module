@@ -144,7 +144,7 @@ composer install
 
 ## Credits
 
-- **Author**: Luca Visciola ([info@melasistema.com](mailto:info@melasistema.com))
+- **Author**: [Luca Visciola](https://github.com/melasistema) ([info@melasistema.com](mailto:info@melasistema.com))
 - **Inspired by HydePHP**: Created by [Caen De Silva](https://github.com/caendesilva) ([HydePHP GitHub](https://github.com/hydephp/hyde))
 
 ---
